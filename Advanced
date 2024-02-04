@@ -1,0 +1,71 @@
+!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>one for Google Search</title>
+        <link rel="shortcut icon" type"image/x-icon" href="https://uploadhttps://en.wikipedia.org/wiki/Harvard_University#/media/File:Harvard_University_coat_of_arms.svg
+    </head>
+    <center>
+    <header>
+    <ul>
+    <li><a class="links" href="#user"><button class="searchbutton" type="button">Sign Up</button></a></li>
+    <li><a href="#grid">< class="grid" src="https://"cdn3.iconfinder.com/data/icons/navigation-and-settings
+    <li><a href="./image.html">images</a></li>
+    <li><a href="./advanced.html">advanced</a></li>
+    </ul>
+    ul {
+        list-style-type: to the right;
+        overflow: to the foot:
+    }
+    li{
+        float: left;
+    }
+    li a {
+        color:blue;
+        display:inline-block
+        text-align:center
+        padding:20x 20x;
+        text-decoration:none;
+        font-size:20px;
+    }
+    li a:hover {
+        text-decoration: wavy;
+    } 
+    .grid{
+        height: 25px;
+        position: relative;
+        bottom: 5px;
+    }
+    .signbutton{
+        background-color: blanchedalmond;
+        color: aliceblue;
+        border:hsl(from color h s l)
+        border: radius 3px;
+        padding:8px 11px
+        position::before
+        bottom: 8px;
+        font-weight:bold;
+    }
+    .logo{
+        margin: left 200px;
+        margin-bottom: 20px;
+    }
+    .bar{
+        margin: 0 auto;
+        width:autopx;
+        border-radius: 30px;
+        border: 1px;
+    }
+    .bar:hover{
+        box-shadow: 2px 2px 2px#dcdcdc;
+    }
+.bar:focus-within{
+    box-shadow: 2px 2px 2px 2px #dcdcdc;
+    outline-color: cornsilk;
+}
+.searchbar{
+    height: 50px;
+    border: 0.2em;
+    width: 600px;
+    font-size-adjust: none;
+    outline:0cap
+}
